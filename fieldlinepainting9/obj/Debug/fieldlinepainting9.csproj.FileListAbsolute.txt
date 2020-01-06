@@ -1,0 +1,6 @@
+C:\Users\AcademyPgh\source\repos\fieldlinepainting9\fieldlinepainting9\obj\Debug\fieldlinepainting9.csprojAssemblyReference.cache
+C:\Users\AcademyPgh\source\repos\fieldlinepainting9\fieldlinepainting9\bin\Debug\fieldlinepainting9.exe.config
+C:\Users\AcademyPgh\source\repos\fieldlinepainting9\fieldlinepainting9\bin\Debug\fieldlinepainting9.exe
+C:\Users\AcademyPgh\source\repos\fieldlinepainting9\fieldlinepainting9\bin\Debug\fieldlinepainting9.pdb
+C:\Users\AcademyPgh\source\repos\fieldlinepainting9\fieldlinepainting9\obj\Debug\fieldlinepainting9.exe
+C:\Users\AcademyPgh\source\repos\fieldlinepainting9\fieldlinepainting9\obj\Debug\fieldlinepainting9.pdb
